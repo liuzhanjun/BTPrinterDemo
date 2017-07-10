@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\extreaProject\\BTPrinterDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "E:\\extreaProject\\BTPrinterDemo\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "E:\\extreaProject\\BTPrinterDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\net_conn.xml",
+        "source": "E:\\extreaProject\\BTPrinterDemo\\app\\src\\main\\res\\layout\\net_conn.xml"
+    },
+    {
+        "merged": "E:\\extreaProject\\BTPrinterDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "E:\\extreaProject\\BTPrinterDemo\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "E:\\extreaProject\\BTPrinterDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "E:\\extreaProject\\BTPrinterDemo\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\extreaProject\\BTPrinterDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "E:\\extreaProject\\BTPrinterDemo\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\extreaProject\\BTPrinterDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\extreaProject\\BTPrinterDemo\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
